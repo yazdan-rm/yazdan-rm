@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yazdan</h1>
 <h3 align="center">A passionate web developer from IRAN</h3>
 
-<img  align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img style="border-radius:50%" align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 - 🔭 I’m currently working on **EJS and Node.js**
 
