@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Back End**
 
-- 💬 Ask me about **OracleDB, jQuery and JS**
+- 💬 Ask me about **OracleDB, jQuery and Java**
 
 - 📫 How to reach me **1yazdanrafieemanesh@gmail.com**
 
