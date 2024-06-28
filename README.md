@@ -5,11 +5,11 @@
 
 <img style="border-radius:50%" align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on **EJS and Node.js**
+- 🔭 I’m currently working on **Spring boot and Hibernate**
 
 - 🌱 I’m currently learning **Back End**
 
-- 💬 Ask me about **OracleDB, jQuery and Java**
+- 💬 Ask me about **OracleDB, JS and Java**
 
 - 📫 How to reach me **1yazdanrafieemanesh@gmail.com**
 
