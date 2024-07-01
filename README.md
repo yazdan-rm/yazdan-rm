@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring boot and Hibernate**
 
-- 🌱 I’m currently learning **Back End**
+- 🌱 I’m learning **Back End**
 
 - 💬 Ask me about **OracleDB, JS and Java**
 
